@@ -21,6 +21,7 @@ Aplicação React utilizando o Vite para aplicar os conceitos mais importantes d
 
 - **ReactJS**
 - **TypeScript**
+- **CSS**
 
 ## 🔖 Layout
 - [Ignite Feed - Figma](https://www.figma.com/file/OhrrVFoJL0jLISUPnw5W34/Ignite-Feed?type=design&node-id=26%3A12&mode=design&t=363FAWM22UlJnwSA-1)
